@@ -1,5 +1,8 @@
 # Screens
-<img src="https://github.com/handsome0514/TradingView/blob/master/screenshots/Screenshot_1700689084.png" width="300px">
+<img src="https://github.com/illiafedenko/tradingview/blob/main/screenshots/Screenshot_1700689084.png" width="300px">
+
+https://github.com/illiafedenko/tradingview/blob/c7d127fa54920fd7fe2195ac0387c16d57e27288/screenshots/TradingView.mp4
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
