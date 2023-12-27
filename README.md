@@ -1,3 +1,6 @@
+# Screens
+<img src="https://github.com/handsome0514/TradingView/blob/master/screenshots/Screenshot_1700689084.png" width="300px">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
